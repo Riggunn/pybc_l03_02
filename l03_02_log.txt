@@ -1,0 +1,6 @@
+commit 3a2c04590444e36dbd8cba4c2cc1dca885db53ee
+Author: Riggunn <jonnyfase@mail.ru>
+Date:   Thu Jun 11 12:25:09 2020 +0300
+
+    Create script_02.py and the result - test.gif
+origin	https://github.com/Riggunn/pybc_l03_02.git 
